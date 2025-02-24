@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Habìa una vez un estudiante de geoinformaciòn en web que querìa aprender GitHub.
 Pero primero tuvo que instalar Git en su computadora
+Habìa una vez un estudiante de geoinformaciòn en web que querìa aprender GitHUb.
+Un dìa decidiò matricular
+
